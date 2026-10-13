@@ -41,9 +41,6 @@ This application is deployed on AWS Cloud. You can access it here:( http://44.20
 - Flask
 - HTML
 - CSS
-## Contributors
-
-Shiva-Ganti-17
 
 ## License
 
